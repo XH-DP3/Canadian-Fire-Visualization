@@ -52,7 +52,7 @@ The data tells a story of transformation in Canada's fire landscape. We are on a
     - Cluster (Spatial Patterns): Do clusters of high fire activity appear in certain regions during specific years?
 
 #### The Actual Visualization
-![Dashboard 1 Demo](../images/dashboard%20gifs/Xinghao%20Huang%20Dashboard%20Gif/Dashboard1XH.gif?v=2)
+![Dashboard 1 Demo](../images/dashboard%20gifs/Dashboard1XH.gif?v=2)
 
 *Note: The gif is 59 seconds in total*
 
@@ -161,7 +161,7 @@ The data tells a story of transformation in Canada's fire landscape. We are on a
     - Summarize (Severity Overview): What are the overall national trends in wildfire severity regardless of region or cause?
  
 #### The Actual Visualization
-![Dashboard 2 Demo](../images/dashboard%20gifs/Xinghao%20Huang%20Dashboard%20Gif/Dashboard2XH.gif)
+![Dashboard 2 Demo](../images/dashboard%20gifs/Dashboard2XH.gif)
 
 *Note: The gif is 50 seconds in total*
 
